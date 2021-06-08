@@ -60,4 +60,4 @@ Command | Action
 `npm run build-prod` | Build project in Production configuration
 `npm start` | Run project server
 
-7. Open browser at http://localhost:8080/
+7. Open browser at http://localhost:8081/
